@@ -2,3 +2,20 @@
 @import "bootstrap";
 @import "font-awesome-sprockets";
 @import "font-awesome";
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: deeppink;
+    background-color: #090909;
+    text-align: center;
+}
+
+body{
+    // background-color: #eac5cd;
+}
+
+.glyphicon{
+    font-size: 50px;
+}
